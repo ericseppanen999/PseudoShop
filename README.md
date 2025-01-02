@@ -1,4 +1,4 @@
-# BMP-Editor
+# PseudoShop
 
 A simple, powerful, and customizable BMP photo editor written in Python. This editor allows users to apply a range of filters and transformations to BMP images, including grayscale, sepia, invert, night vision, and more. Ideal for experimenting with image processing concepts and learning how to work with raw pixel data.
 
